@@ -68,7 +68,10 @@ My final image looks like this:
 - FOV changes based on the height of the object and distance of the object from the pinhole, I tried with multiple subjects and scenes. Angle of view is 15.64 degrees or 0.27 radians. 
 - I use 'M' mode to manually set an aperture in the range of F/3.5 to F/6 and exposure time is 30 seconds. I vary the ISO sensitivity from 100-400 as most images were clicked in the presence of natural sunlight. 
 - There is a wavy curve on the captured image, which is potentially due to the way the white screen was stuck to the box. 
-- The images captured by camera are shifted because my camera mount was bending one side in some of the earlier pictures, capturing different parts of the screen inside. 
+- The images captured by camera are shifted because my camera mount was bending one side in some of the earlier pictures, capturing different parts of the screen inside.
+- 
+[Setup 1](data/setup1.JPG)
+
 
 ### Pinhole diameters 
 
