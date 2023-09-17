@@ -70,16 +70,21 @@ My final image looks like this:
 - There is a wavy curve on the captured image, which is potentially due to the way the white screen was stuck to the box. 
 - The images captured by camera are shifted because my camera mount was bending one side in some of the earlier pictures, capturing different parts of the screen inside.
 - 
-[Setup 1](data/setup1.JPG)
-
+[Setup 1](data/setup1.JPG), [Setup 2](data/setup2.JPG), [Setup 3](data/setup3.JPG), [Setup 4](data/setup4.JPG)
 
 ### Pinhole diameters 
 
 I use 3 pinholes with diameters 1.2 mm, 2 mm and 3.5 mm. I also tried one with 8 mm diameter, but report images taken using first 3. 
  - The blurred images have been captured from the 3.5 mm pinhole, this is expected as a sharp point source is desired if we want every point on the screen to capture ray from a certain source point. 
  - With the 1.2 mm, the images seem darker as even with maximum camera exposure, we are not able to capture the limited light reaching the screen. This size is not tiny enough to observe the diffraction effects discussed in class.  - The best images are from the 2 mm diameter pinhole.
+
+[View 1, 3.5 mm](data/view1_1stpin.JPG), [View 1, 2 mm](data/view1_2ndpin.JPG), [View 1, 1.2 mm](data/view1_3rdpin.JPG)
+[View 2, 3.5 mm](data/view2_1stpin.JPG), [View 2, 2 mm](data/view2_2ndpin.JPG), [View 2, 1.2 mm](data/view2_3rdpin.JPG)
+[View 3, 3.5 mm](data/view3_1stpin.JPG), [View 3, 2 mm](data/view3_2ndpin.JPG), [View 3, 1.2 mm](data/view3_3rdpin.JPG)
  
 ### 2.3 
 I created a pinhole-like effect through a window in my laboratory. Notice the details of the brown building, pink container and orange stop cone in the images being captured on the whiteboard (compare with actual scene outside). 
 
 Even though I did not create a point size pinhole in a window, the surroundings (both inside the lab and outside) were dark enough to ensure light was coming only from the scene in front and it was being captured on the whiteboard. Would be interesting to know if this is due to an effect other than the pinhole image formation. The image is not inverted because it is not a point source of light.
+
+[Room screen 1](data/room_screen1.JPG), [Room screen 2](data/room_screen2.JPG), [Room screen 3](data/room_screen3.JPG), [Room screen 4](data/room_screen4.JPG)
